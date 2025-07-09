@@ -27,7 +27,7 @@
         ]"
       />
 
-      <q-toggle v-model="accept" label="I accept the license and terms" />
+      <q-toggle v-model="accept" label="I accept th license and terms" />
 
       <div>
         <q-btn label="Submit" type="submit" color="primary"/>
