@@ -22,7 +22,7 @@
         lazy-rules
         :rules="[ 
           val => val !== null && val !== '' || 'กรุณาใส่อายุของคุณ / Please type your age',
-          val => val > 0 && val < 100 || 'กรุณาใส่อายุจที่ถูกต้อง / Please type a valid age (0-100)'
+          val => val > 0 && val < 100 || 'กรุณาใส่อายุจที่ถูกต้อง / Please type a valid age (0-100) นะจ๊ะ'
         ]"
       />
 
