@@ -31,6 +31,8 @@
       <div>
         <q-btn label="ยอมรับ / Submit" type="submit" color="primary" />
         <q-btn label="ยกเลิก / Reset" type="reset" color="primary" flat class="q-ml-sm" />
+        <q-btn label="ยืนยัน" type="submit" color="primary"/>
+        <q-btn label="เริ่มใหม่" type="reset" color="primary" flat class="q-ml-sm" />
       </div>
     </q-form>
   </div>
